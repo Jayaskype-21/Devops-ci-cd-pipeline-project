@@ -5,7 +5,8 @@ app = Flask(__name__)
 grocery_items = [
     {"id": 1, "name": "Rice", "price": 50},
     {"id": 2, "name": "Milk", "price": 200},
-    {"id": 3, "name": "Sugar", "price": 300}
+    {"id": 3, "name": "Sugar", "price": 300},
+    {"id": 4, "name": "Salt", "price": 50}
 ]
 
 @app.route("/")
