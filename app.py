@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 grocery_items = [
     {"id": 1, "name": "Rice", "price": 50},
-    {"id": 2, "name": "Milk", "price": 200},
+    {"id": 2, "name": "Milk", "price": 100},
     {"id": 3, "name": "Sugar", "price": 300}
 ]
 
