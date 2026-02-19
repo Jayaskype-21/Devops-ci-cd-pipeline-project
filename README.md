@@ -8,8 +8,8 @@ That’s Continuous Integration (CI) + Continuous Deployment (CD).
 
 ---
 
+<img width="732" height="480" alt="image" src="https://github.com/user-attachments/assets/2e1bea96-d0ff-4b16-b9b5-5039cd93919d" />
 
-![Uploading image.png…]()
 
 
 ## 🔹 Step 1 — EC2 Instance Setup
