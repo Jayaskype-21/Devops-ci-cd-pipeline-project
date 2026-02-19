@@ -8,6 +8,10 @@ That’s Continuous Integration (CI) + Continuous Deployment (CD).
 
 ---
 
+
+![Uploading image.png…]()
+
+
 ## 🔹 Step 1 — EC2 Instance Setup
 
 **Purpose:** Server for hosting Jenkins + Docker.
